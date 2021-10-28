@@ -1,0 +1,10 @@
+h2 {
+    color:darkblue;
+    font-family: cursive;
+    background-color: darksalmon;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding: 10px 0 20px 15px;
+    padding: 40px 80px;
+}
